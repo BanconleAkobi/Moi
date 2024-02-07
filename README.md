@@ -1,2 +1,2 @@
 # Moi
-Tout sur moi
+Vous trouverez ici tout ce qui me concerne (Principalement le CV).
